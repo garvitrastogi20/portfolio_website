@@ -1,6 +1,6 @@
 # Minimalist Creative Portfolio Website
 
-A premium, high-end creative portfolio website engineering my journey, software development stacks, and algorithmic problem-solving milestones. Rebuilt with an ultra-clean layout design, responsive geometry, and fluid micro-interactions.
+A streamlined, high-end developer portfolio engineered with a minimalist aesthetic, featuring an interactive digital blueprint background and a silky, custom fluid cursor. This site highlights my engineering journey, software development stacks, and algorithmic problem-solving milestones.
 
 🚀 **Live Link:** https://garvitrastogiportfolio.netlify.app/
 
@@ -23,6 +23,26 @@ A premium, high-end creative portfolio website engineering my journey, software 
 * **Backend & DB Infrastructure:** Node.js, Firebase reactive cloud databases, Relational SQL
 * **Data & Intelligence:** Pandas, NumPy analytics matrices, OpenCV, TensorFlow frameworks
 * **Developer Workflow:** Git, Version Control, Vercel deployments
+
+---
+
+## 🔧 Tools & Technologies Used
+
+### 1. Structure & Layout Architecture
+* **HTML5 Semantic Tags:** Used to define clear layout divisions (`nav`, `section`, `footer`). This drastically improves the SEO discoverability of the site and ensures assistive technologies can read the code cleanly.
+* **CSS Flexbox & Grid Systems:** Power the sleek, asymmetric alignment of the showcase matrices. Grid handles the structured column arrays for skills and projects, while Flexbox keeps the navigation headers perfectly responsive.
+
+### 2. Premium Typography & Core Design
+* **Google Fonts API Integration:** Fetches the premium font duology directly from the CDN with high-speed preconnections:
+  * **Syne:** Employed exclusively for large, bold, geometric headings to mimic a high-end designer look.
+  * **Inter:** Chosen for body text due to its highly optimized screen legibility, crisp letter spacing, and clean scannability.
+* **CSS Variable Architecture (`:root`):** Centralizes the entire color scheme (midnight blues, deep surface hues, pure white accents). This makes the theme easily maintainable and highly cohesive.
+
+### 3. Micro-Interactions & Animation Telemetry
+* **Vanilla JavaScript Performance:** Drives the responsive animations without relying on heavy external framework overhead:
+  * **Linear Interpolation (Lerp) Algorithm:** Used in the script to compute the distance between the custom cursor ring and your mouse coordinates, creating a smooth motion with subtle visual inertia.
+  * **HTML5 Canvas Background Stream:** Renders a fast, hardware-accelerated grid mesh line system that gives the layout its crisp digital blueprint vibe.
+* **Intersection Observer API:** Dynamically monitors when a user scrolls down to a section, instantly triggering smooth CSS slide-up transition classes (`.reveal.visible`) exactly when elements enter the screen.
 
 ---
 
